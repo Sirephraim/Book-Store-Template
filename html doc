@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Bookdom</title>
+</head>
+
+<body>
+
+    <!--Website Header Secction-->
+    <header>
+
+        <div class="logo">
+            <a href="index.html">
+                <p>Book<span>dom</span></p>
+            </a>
+        </div>
+
+        <p>#1 Worldwide Book Stores</p>
+
+        <div class="btn">
+
+            <a href="#">Login</a>
+            <a href="#">Sign Up</a>
+
+        </div>
+
+    </header>
+
+
+
+    <!--Sub Header-->
+
+    <section class="subheader">
+
+        <div class="primary">
+
+            <a href="#"> <img src="images/image7.png" width="50" alt="image1"> </a>
+            <a href="#"> <img src="images/image7.png" width="50" alt="image1"> </a>
+            <a href="#"> <img src="images/image7.png" width="50" alt="image1"> </a>
+            <a href="#"> <img src="images/image7.png" width="50" alt="image1"> </a>
+            <a href="#"> <img src="images/image7.png" width="50" alt="image1"> </a>
+
+        </div>
+
+        <div class="secondary">
+
+
+            <a href="#"> <img src="images/image7.png" width="50" alt="image1"> </a>
+            <a href="#"> <img src="images/image7.png" width="50" alt="image1"> </a>
+
+        </div>
+
+
+    </section>
+
+
+    <!--Featured Area-->
+
+    <section class="featured">
+
+        <div class="bookbox">
+
+            <img src="images/book1.png" alt="book1" width="200">
+
+            <div class="title">
+                <img src="images/star.png" alt="featured" width="20">
+                <h4>Just the Right Step</h4>
+            </div>
+
+            <h6>Jeen Kyleen</h6>
+            <p>This book is about you taking <br> just one step</p>
+
+            <div class="bookboxicons">
+                <a href="#"> <img src="images/image7.png" width="30" alt="image1"> </a>
+                <a href="#"> <img src="images/image7.png" width="30" alt="image1"> </a>
+                <a href="#"> <img src="images/image7.png" width="30" alt="image1"> </a>
+            </div>
+
+        </div>
+
+
+
+
+
+        <div class="bookbox">
+
+            <img src="images/book2.png" alt="book1" width="200">
+
+            <div class="title">
+                <img src="images/star.png" alt="featured" width="20">
+                <h4>Just the Right Step</h4>
+            </div>
+
+            <h6>Jeen Kyleen</h6>
+            <p>This book is about you taking <br> just one step</p>
+
+            <div class="bookboxicons">
+                <a href="#"> <img src="images/image7.png" width="30" alt="image1"> </a>
+                <a href="#"> <img src="images/image7.png" width="30" alt="image1"> </a>
+                <a href="#"> <img src="images/image7.png" width="30" alt="image1"> </a>
+            </div>
+
+        </div>
+
+
+
+
+
+        <div class="bookbox">
+
+            <img src="images/book3.png" alt="book1" width="200">
+
+            <div class="title">
+                <img src="images/star.png" alt="featured" width="20">
+                <h4>Just the Right Step</h4>
+            </div>
+
+            <h6>Jeen Kyleen</h6>
+            <p>This book is about you taking <br> just one step</p>
+
+            <div class="bookboxicons">
+                <a href="#"> <img src="images/image7.png" width="30" alt="image1"> </a>
+                <a href="#"> <img src="images/image7.png" width="30" alt="image1"> </a>
+                <a href="#"> <img src="images/image7.png" width="30" alt="image1"> </a>
+            </div>
+
+        </div>
+
+
+
+
+    </section>
+
+
+
+
+
+    <img src="images/image2.png" alt="">
+
+</body>
+
+</html>
